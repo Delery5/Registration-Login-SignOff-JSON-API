@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "password": "Test@123",
+      "email": "admin@in.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true,
+      "bio": "I am your Admin!"
+    },
+    {
+      "id": "julien",
+      "name": "King Julien",
+      "password": "KingJ@123",
+      "email": "kinj@email.com",
+      "gender": "male",
+      "role": "user",
+      "isActive": true,
+      "bio": "Hi my name is King Julien and I like to move it move it."
+    }
+  ]
+}
